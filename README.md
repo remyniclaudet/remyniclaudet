@@ -30,7 +30,7 @@
 ## 🛠️ Compétences
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,canva" alt="skills" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,canva" alt="skills" />
 </div>
 
 ---
