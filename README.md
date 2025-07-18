@@ -1,7 +1,12 @@
-<!-- Bannière -->
+<!-- Bannière personnalisée -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=remyniclaudet&style=soft" alt="Welcome banner" />
+  <span style="font-size:4rem; font-weight:bold; letter-spacing:0.2em; color:#0f2027; text-shadow: 2px 2px 8px #00c6ff, 4px 4px 16px #f7971e;">
+    🟦🟩🟨 <br>
+    REMY NICLAUDET <br>
+    🟨🟩🟦
+  </span>
 </p>
+<!-- Effet 3D simulé avec ombre et emojis -->
 
 <h1 align="center">Bienvenue sur mon GitHub ! 👋</h1>
 
@@ -25,7 +30,7 @@
 ## 🛠️ Compétences
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,photoshop" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,canva" alt="skills" />
 </div>
 
 ---
