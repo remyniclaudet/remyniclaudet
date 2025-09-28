@@ -48,9 +48,9 @@
 ## 🌐 Me contacter  
 
 <p align="center">
-  🔗 <a href="https://niclaudet-portfolio.vercel.app/" target="_blank"><b>Portfolio</b></a> •  
+  🔗 <a href="https://razakatsara.vercel.app//" target="_blank"><b>Portfolio</b></a> •  
   💼 <a href="https://linkedin.com/in/remyniclaudet" target="_blank"><b>LinkedIn</b></a> •  
-  📧 <a href="mailto:niclaudet.raz@gmail.com"><b>Email</b></a>
+  📧 <a href="mailto:niclaudet.contact@gmail.com"><b>Email</b></a>
 </p>
 
 ---
