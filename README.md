@@ -1,226 +1,236 @@
+<a id="top"></a>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=6FE3FF&center=true&vCenter=true&width=560&lines=INITIALISATION+DU+PROFIL...;CHARGEMENT+DES+DONN%C3%89ES+JOUEUR...;SYSTEME+PRET." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=900&color=39D98A&center=true&vCenter=true&width=560&lines=BOOTING+PROFILE.SYS...;LOADING+PLAYER+DATA...;CALIBRATING+HUD...;SYSTEM+READY." alt="boot sequence" />
 
 <br>
 
-# RAZAKATSARA REMY NICLAUDET
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3600&pause=1400&color=EDEDED&center=true&vCenter=true&width=620&lines=RAZAKATSARA+REMY+NICLAUDET" alt="name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=F7B75C&center=true&vCenter=true&width=560&lines=DESIGNER+%C3%97+DEVELOPER+%C3%97+CREATIVE+BUILDER" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3400&pause=1200&color=39D98A&center=true&vCenter=true&width=560&lines=DESIGNER+%C3%97+DEVELOPER+%C3%97+CREATIVE+BUILDER" alt="tagline" />
+
+<sub>◈ FULLSTACK JS DEV &nbsp;·&nbsp; GRAPHIC DESIGN &nbsp;·&nbsp; UI/UX &nbsp;·&nbsp; MADAGASCAR ◈</sub>
+
+<br><br>
+
+[`[ 01 PLAYER ]`](#player)&nbsp;&nbsp;[`[ 02 SKILLS ]`](#skills)&nbsp;&nbsp;[`[ 03 LOADOUT ]`](#loadout)&nbsp;&nbsp;[`[ 04 QUESTS ]`](#quests)&nbsp;&nbsp;[`[ 05 TROPHIES ]`](#trophies)&nbsp;&nbsp;[`[ 06 SYSTEM ]`](#system)&nbsp;&nbsp;[`[ 07 COMMS ]`](#comms)
 
 </div>
 
 <br>
 
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
+
+<a id="player"></a>
+
+## `◤ 01 / 07` PLAYER PROFILE
+<sub>CHARACTER SELECT SCREEN</sub>
+
+```text
+┌── PLAYER 01 ─────────────────────────────────────── ● ONLINE ──┐
+│                                                                 │
+│   RAZAKATSARA REMY NICLAUDET                                   │
+│   ═══════════════════════════                                  │
+│                                                                 │
+│   CLASS     : Designer × Developer                             │
+│   SPEC      : UI/UX · Graphic Design · Fullstack JS             │
+│   BASE      : Madagascar                                       │
+│   FOCUS     : Réseaux & télécoms (actif)                       │
+│                                                                 │
+│   LVL 99    XP ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  MAX                        │
+│                                                                 │
+└─────────────────────────────────────────────── SYSTEM READY ───┘
+```
+
 <div align="center">
 
-| | |
-|---|---|
-| **PLAYER** | Razakatsara Remy Niclaudet |
-| **CLASS** | Designer × Developer |
-| **SPECIALIZATION** | Graphic Design / UI-UX / Développement Web Fullstack |
-| **BASE** | Madagascar |
-| **STATUS** | 🟢 En ligne |
+![status](https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&labelColor=0D1117&color=39D98A)
+![class](https://img.shields.io/badge/CLASS-DESIGNER_×_DEV-0D1117?style=for-the-badge&labelColor=0D1117&color=EDEDED)
+![loc](https://img.shields.io/badge/BASE-MADAGASCAR-0D1117?style=for-the-badge&labelColor=0D1117&color=E8B94D)
 
 </div>
 
-<div align="center">
+<blockquote>
 <sub>Développeur fullstack JS et designer graphique, passionné par le code, la créativité et les réseaux — je conçois des interfaces et des produits numériques qui allient rigueur technique et sens du détail visuel.</sub>
-</div>
+</blockquote>
 
-<br>
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
 
----
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
 
-<br>
+<a id="skills"></a>
 
-## ▍PLAYER STATS
+## `◤ 02 / 07` SKILL TREE
+<sub>CHARACTER STATISTICS PANEL</sub>
+
+```text
+                              ▣ CORE BUILD
+                                   │
+        ┌──────────────────┬──────┴──────┬──────────────────┐
+        │                  │              │                  │
+   GRAPHIC DESIGN      UI / UX DESIGN   DEVELOPMENT       NETWORKING
+        │                  │              │                  │
+   Identité visuelle   Conception UI   ┌───┴───┐          Réseaux &
+   Supports graphiques Prototypage   FRONTEND BACKEND      télécoms
+   Figma · Canva       Exp. utilisateur │       │        (domaine actif)
+                                     React    Node · Express
+                                     HTML/CSS/JS   MongoDB · Git
+```
 
 <div align="center">
 
-**DESIGN**
-
-<img src="https://skillicons.dev/icons?i=figma" height="42"/> &nbsp; <img src="https://skillicons.dev/icons?i=canva" height="42"/>
-
-**DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" height="42"/>
-
-**SYSTEM / TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,linux" height="42"/>
+| BRANCH | NODE | LEVEL |
+|:--|:--|:--|
+| 🎨 Design | UI / UX Design | `▰▰▰▰▰▰▰▰▰▱` 90% |
+| 🎨 Design | Identité visuelle & graphisme | `▰▰▰▰▰▰▰▰▱▱` 80% |
+| 💻 Frontend | HTML · CSS · JS · React | `▰▰▰▰▰▰▰▰▰▱` 90% |
+| 🛠️ Backend | Node.js · Express · MongoDB | `▰▰▰▰▰▰▰▱▱▱` 70% |
+| 📡 Networking | Réseaux & télécoms | `▰▰▰▰▰▰▱▱▱▱` 60% |
 
 </div>
 
-<br>
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
 
----
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
 
-<br>
+<a id="loadout"></a>
 
-## ▍SKILL TREE
+## `◤ 03 / 07` LOADOUT
+<sub>EQUIPMENT / INVENTORY SCREEN</sub>
 
-```
-GRAPHIC DESIGN
- ├── UI/UX Design
- ├── Identité visuelle & supports graphiques
- └── Figma · Canva
-
-UI / UX DESIGN
- ├── Conception d'interfaces
- ├── Prototypage
- └── Expérience utilisateur
-
-DEVELOPMENT
- ├── Frontend — HTML · CSS · JavaScript · React
- ├── Backend — Node.js · Express
- ├── Database — MongoDB
- └── Versioning — Git / GitHub
-
-NETWORKING
- └── Réseaux & télécoms (domaine d'intérêt actif)
-```
-
-<br>
-
----
-
-<br>
-
-## ▍TECH LOADOUT
+**⌗ CREATIVE LOADOUT**
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" valign="top" width="20%">
+<td align="center" width="50%">
 
-**FRONTEND**
+<img src="https://skillicons.dev/icons?i=figma" height="42"/>
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/><br>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/><br>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+`[ EQUIPMENT ]`<br>**FIGMA**<br>`TYPE: DESIGN TOOL`<br>`STATUS: EQUIPPED`
 
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" width="50%">
 
-**BACKEND**
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="42"/>
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/><br>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-
-</td>
-<td align="center" valign="top" width="20%">
-
-**DATABASE**
-
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-</td>
-<td align="center" valign="top" width="20%">
-
-**TOOLS**
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/><br>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/><br>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-</td>
-<td align="center" valign="top" width="20%">
-
-**DESIGN**
-
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/><br>
-<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+`[ EQUIPMENT ]`<br>**CANVA**<br>`TYPE: DESIGN TOOL`<br>`STATUS: EQUIPPED`
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<br>
+**⌗ TECH LOADOUT**
 
----
-
-<br>
-
-## ▍QUESTS — PROJETS
-
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<th align="left" width="14%">TYPE</th>
-<th align="left" width="26%">QUEST</th>
-<th align="left">BRIEFING</th>
-<th align="left" width="14%">ACCESS</th>
-</tr>
-<tr>
-<td>🖥️ DEV QUEST</td>
-<td><b>reseau-monitoring</b></td>
-<td>Outil de surveillance réseau.</td>
-<td><a href="https://github.com/remyniclaudet/reseau-monitoring">[ REPO ]</a></td>
-</tr>
-<tr>
-<td>💻 DEV QUEST</td>
-<td><b>e-learning-platform</b></td>
-<td>Plateforme d'apprentissage en ligne.</td>
-<td><a href="https://github.com/remyniclaudet/e-learning-platform">[ REPO ]</a></td>
-</tr>
-<tr>
-<td>🎨 PRODUCT QUEST</td>
-<td><b>my-portfolio</b></td>
-<td>Site personnel construit en React, vitrine du travail de design et de développement.</td>
-<td><a href="https://github.com/remyniclaudet/my-portfolio">[ REPO ]</a></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=html,css,js,react" height="38"/><br>`FRONTEND`<br>`STATUS: ACTIVE`</td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=nodejs,express" height="38"/><br>`BACKEND`<br>`STATUS: ACTIVE`</td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=mongodb" height="38"/><br>`DATABASE`<br>`STATUS: ACTIVE`</td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=git,vscode,linux" height="38"/><br>`SYSTEM / TOOLS`<br>`STATUS: EQUIPPED`</td>
 </tr>
 </table>
+</div>
 
-<br>
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
 
----
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
 
-<br>
+<a id="quests"></a>
 
-## ▍ACHIEVEMENTS
+## `◤ 04 / 07` QUESTS
+<sub>MISSION SELECT SCREEN</sub>
 
+```text
+MISSION 01 ─────────────────────────────────── STATUS: ACTIVE
+RESEAU-MONITORING
+TYPE   : NETWORK / DEV TOOL
+BRIEF  : Outil de surveillance réseau.
+```
 <div align="center">
 
-<img src="https://img.shields.io/badge/FULLSTACK_BUILDER-0d1117?style=for-the-badge&labelColor=0d1117&color=6FE3FF"/>
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGNER-0d1117?style=for-the-badge&labelColor=0d1117&color=F7B75C"/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE_EXPLORER-0d1117?style=for-the-badge&labelColor=0d1117&color=6FE3FF"/>
-<img src="https://img.shields.io/badge/NETWORK_ENTHUSIAST-0d1117?style=for-the-badge&labelColor=0d1117&color=F7B75C"/>
+[![view](https://img.shields.io/badge/▶_VIEW_MISSION-0D1117?style=for-the-badge&labelColor=0D1117&color=39D98A)](https://github.com/remyniclaudet/reseau-monitoring)
 
 </div>
 
-<br>
-
----
-
-<br>
-
-## ▍SYSTEM STATS
-
+```text
+MISSION 02 ─────────────────────────────────── STATUS: ACTIVE
+E-LEARNING-PLATFORM
+TYPE   : WEB APPLICATION
+BRIEF  : Plateforme d'apprentissage en ligne.
+```
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=remyniclaudet&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6FE3FF&icon_color=F7B75C&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remyniclaudet&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6FE3FF&text_color=c9d1d9" height="165"/>
+[![view](https://img.shields.io/badge/▶_VIEW_MISSION-0D1117?style=for-the-badge&labelColor=0D1117&color=39D98A)](https://github.com/remyniclaudet/e-learning-platform)
 
 </div>
 
-<br>
+```text
+MISSION 03 ─────────────────────────────────── STATUS: LIVE
+MY-PORTFOLIO
+TYPE   : PRODUCT / SHOWCASE
+BRIEF  : Site personnel construit en React, vitrine du travail
+         de design et de développement.
+```
+<div align="center">
 
----
+[![view](https://img.shields.io/badge/▶_VIEW_MISSION-0D1117?style=for-the-badge&labelColor=0D1117&color=E8B94D)](https://github.com/remyniclaudet/my-portfolio)
 
-<br>
+</div>
 
-## ▍CONNECT
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
+
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
+
+<a id="trophies"></a>
+
+## `◤ 05 / 07` ACHIEVEMENTS
+<sub>TROPHY ROOM</sub>
 
 <div align="center">
 
-<a href="https://razakatsara.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=0d1117&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/remyniclaudet"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:niclaudet.contact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://github.com/remyniclaudet"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+`ACHIEVEMENT UNLOCKED`
+
+![t1](https://img.shields.io/badge/🏆_FULLSTACK_BUILDER-0D1117?style=for-the-badge&labelColor=0D1117&color=39D98A)
+![t2](https://img.shields.io/badge/🏆_UI%2FUX_DESIGNER-0D1117?style=for-the-badge&labelColor=0D1117&color=E8B94D)
+![t3](https://img.shields.io/badge/🏆_OPEN_SOURCE_EXPLORER-0D1117?style=for-the-badge&labelColor=0D1117&color=39D98A)
+![t4](https://img.shields.io/badge/🏆_NETWORK_ENTHUSIAST-0D1117?style=for-the-badge&labelColor=0D1117&color=E8B94D)
+
+</div>
+
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
+
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
+
+<a id="system"></a>
+
+## `◤ 06 / 07` SYSTEM MONITOR
+<sub>CONSOLE DIAGNOSTICS</sub>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=remyniclaudet&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=E8B94D&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remyniclaudet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="right"><a href="#top"><sub>▲ back to menu</sub></a></div>
+
+![divider](https://img.shields.io/badge/─────────────────────────────────────────────────────────────%20-0D1117?style=flat-square)
+
+<a id="comms"></a>
+
+## `◤ 07 / 07` COMMS
+<sub>MULTIPLAYER / CONTACT LINK</sub>
+
+<div align="center">
+
+[![portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39D98A&labelColor=0D1117)](https://razakatsara.vercel.app/)
+[![linkedin](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D98A&labelColor=0D1117)](https://linkedin.com/in/remyniclaudet)
+[![email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39D98A&labelColor=0D1117)](mailto:niclaudet.contact@gmail.com)
+[![github](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39D98A&labelColor=0D1117)](https://github.com/remyniclaudet)
 
 </div>
 
@@ -228,5 +238,8 @@ NETWORKING
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/remyniclaudet/remyniclaudet/main/assets/tech-divider.gif" width="100%" alt="divider"/>
+
+`SESSION ACTIVE` &nbsp;·&nbsp; `SYNC COMPLETE` &nbsp;·&nbsp; `END OF TRANSMISSION`
+
 <sub>⚡ Merci d'avoir consulté ce profil. ⚡</sub>
 </div>
